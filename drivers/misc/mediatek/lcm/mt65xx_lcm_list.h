@@ -234,6 +234,8 @@ extern LCM_DRIVER s6e3fa2_fhd1080_dsi_vdo_lcm_drv;
 extern LCM_DRIVER nt35523_wsvga_dsi_vdo_boe_lcm_drv;
 extern LCM_DRIVER ek79023_dsi_wsvga_vdo_lcm_drv;
 extern LCM_DRIVER nt35532_fhd_dsi_vdo_sharp_lcm_drv;
+extern LCM_DRIVER nt35596_fhd_dsi_vdo_auo_lcm_drv;
+extern LCM_DRIVER nt35532_fhd_dsi_vdo_panda_lcm_drv;
 extern LCM_DRIVER s6d7aa0_wxga_dsi_vdo_lcm_drv;
 extern LCM_DRIVER hx8394c_wxga_dsi_vdo_lcm_drv;
 extern LCM_DRIVER it6151_lp079qx1_edp_dsi_video_8163evb_lcm_drv;

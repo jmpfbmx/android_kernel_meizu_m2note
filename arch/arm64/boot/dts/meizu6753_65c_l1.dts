@@ -774,6 +774,6 @@
 	status = "okay";
 };
 /* LCM GPIO Kernal Standardization end */
-#include <k53v1_64_bsp/cust.dtsi>
+#include <meizu6753_65c_l1/cust.dtsi>
 /*End of this file, DO NOT ADD ANYTHING HERE*/
 

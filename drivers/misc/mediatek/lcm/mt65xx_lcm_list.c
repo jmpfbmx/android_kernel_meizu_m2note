@@ -899,7 +899,12 @@ LCM_DRIVER *lcm_driver_list[] = {
 #if defined(OTM1906A_FHD_DSI_CMD_AUTO)
 	&otm1906a_fhd_dsi_cmd_auto_lcm_drv,
 #endif
-
+#if defined(NT35596_FHD_DSI_VDO_AUO)
+	&nt35596_fhd_dsi_vdo_auo_lcm_drv,
+#endif
+#if defined(NT35532_FHD_DSI_VDO_PANDA)
+        &nt35532_fhd_dsi_vdo_panda_lcm_drv,
+#endif
 #if defined(NT35532_FHD_DSI_VDO_SHARP)
 	&nt35532_fhd_dsi_vdo_sharp_lcm_drv,
 #endif
